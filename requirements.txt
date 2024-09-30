@@ -1,1 +1,6 @@
+<<<<<<< HEAD
 chicos y chicas
+=======
+holaaa
+lolalal
+>>>>>>> 1273ab09578ad2e9b3579542a83c0ac7ed40ef86
